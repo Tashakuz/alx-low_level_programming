@@ -6,9 +6,9 @@
  *  main - Entry point
  *
  *  program checks whether number is positive or negative
- */ 
-
-/* Return: 0 Success */
+ *
+ *  Return: 0 Success
+ */
 
 int main(void)
 {
