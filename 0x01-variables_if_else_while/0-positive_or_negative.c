@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - checks whether number is negative or positive */
+/**
+ *  main - Entry point
+ *
+ *  program checks whether number is positive or negative
+ */ 
 
 /* Return: 0 Success */
 
