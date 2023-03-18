@@ -4,7 +4,7 @@
 
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/* Return: 0 SUCCESS */
 
 int main(void)
 {
@@ -14,13 +14,12 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	/* your code goes there */
-     
-	if (n>0)
+        if (n > 0)
 	{
 		printf("The number is positive\n");
 	}
 
-	else if (n<0)
+	else if (n < 0)
 	{
 		printf("The number is negative\n");
 	}
@@ -29,6 +28,5 @@ int main(void)
 	{
 		printf("The number is zero\n");
 	}
-
 	return (0);
 }
