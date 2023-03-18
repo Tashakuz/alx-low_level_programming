@@ -20,7 +20,7 @@ int main(void)
 
 	/* your code goes there */
 
-	n = m % 10;
+	m = n % 10;
 
 	if(n > 5)
 	{
