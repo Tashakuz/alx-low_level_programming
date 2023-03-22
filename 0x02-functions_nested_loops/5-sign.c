@@ -3,7 +3,7 @@
 /**
  * print_sign - checks whether n is greater than, less than or equal to 0
  *
- * return 1 if greater than and -1 if less than
+ * return 1 if n is greater than 0 and return -1 if n is less than 0
  *
  * return 0 if n is equal to zero
  */
