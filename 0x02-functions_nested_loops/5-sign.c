@@ -5,9 +5,9 @@
  *
  * @n: The input number which is an integer
  *
- * Return 1 if n is greater than 0 and Returns -1 if n is less than 0
+ * Return: 1 if n is greater than 0, -1 if n is less than 0
  *
- * Return 0 if n is equal to zero
+ * Return: 0 if n is equal to zero
  */
 
 
