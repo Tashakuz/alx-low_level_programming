@@ -10,6 +10,7 @@
  * Return 0 if n is equal to zero
  */
 
+
 int print_sign(int n)
 {
 	if (n > 0)
