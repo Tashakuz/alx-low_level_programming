@@ -3,7 +3,7 @@
 /**
  * print_sign - checks whether n is greater than, less than or equal to 0
  *
- * @n: integer value
+ * @n: The input number which is an integer
  *
  * Return 1 if n is greater than 0 and Returns -1 if n is less than 0
  *
