@@ -5,7 +5,7 @@
  *
  * @c: character variable that is checked
  *
- * Returns: 1 if true and 0 if otherwise
+ * Returns: 0 or 1
  */
 
 int _isupper(int c)
