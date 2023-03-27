@@ -4,8 +4,7 @@
  * swap_int - function that swaps the values of two integers
  *
  * @a: integer value
- * @b: integer value
- * @temp: integer value to be used as placeholder
+ * @b: integer valuer
  *
  * Return: 0 Success
  */
