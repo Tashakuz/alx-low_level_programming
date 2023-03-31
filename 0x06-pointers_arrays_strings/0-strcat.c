@@ -6,7 +6,7 @@
  * @dest: input value
  * @src: input value
  *
- * Return: 0 Success
+ * Return: returns pointer to @dest
  */
 
 char *_strcat(char *dest, char *src);
