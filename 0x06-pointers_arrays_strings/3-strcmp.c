@@ -12,19 +12,20 @@
 int _strcmp(char *s1, char *s2)
 {
 	int flag = 0;
-	while (*a != '\0' && *b != '\0') // while loop
+
+	while (*s1 != '\0' && *s2 != '\0')
 	{
-		if (*a != *b)
+		if (*s1 != *s2)
 		{
 			flag = 1;
 		}
-		a++;
-		b++;
+		s1++;
+		s2++;
 	}
-	if(*a!='\0'||*b!='\0')
-		return 1;
+	if (*s1 != '\0' || *s2 != '\0')
+		return (1);
 	if (flag == 0)
-		return 0;
+		return (0);
 	else
-		return 1;
+		return (1);
 }
